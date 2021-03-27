@@ -30,3 +30,10 @@ Pokemon Gba Game Plays In Telegram! (yet another PGGPIT :)
 * Use `node-gyp` for auto installation.
 * Telegram Webhooks.
 ```
+<table>
+  <tr>
+     <td align="center"><a href="https://github.com/Dankdel"><img src="https://avatars.githubusercontent.com/u/79897294?s=460&u=2c9f32f037f46169f758147d09fd96c3d0126d22&v=4" width="100px;" alt=""/><br /><sub><b>Dankdel</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=Dankdel" title="Dev">I Am Dev</a></td>
+     <td align="center"><a href="https://github.com/WeebTime"><img src="https://avatars.githubusercontent.com/u/72728580?v=4" width="100px;" alt=""/><br /><sub><b>Rising</b></sub></a><br /><a href="https://github.com/WeebTime/hg/commits?author=WeebTime" title="PokeMeow Owner">PokeMeow Owner</a></td>
+     <td align="center"><a href="https://github.com/tengattack"><img src="https://avatars.githubusercontent.com/u/72728580?v=4" width="100px;" alt=""/><br /><sub><b>Tengattack</b></sub></a><br /><a href="https://github.com/tengattack/hg/commits?author=tengattack" title="TPP OWNER">TPP OWNER</a></td>
+     
+  </tr>
