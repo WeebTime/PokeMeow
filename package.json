@@ -1,0 +1,33 @@
+{
+  "name": "PokeMeow",
+  "version": "0.8.0",
+  "description": "Pokemon Gba Game Play In Telegram",
+  "main": "poke.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dankdel/PokeMeow.git"
+  },
+  "keywords": [
+    "bot",
+    "gba",
+    "pokemon",
+    "vba"
+  ],
+  "dependencies": {
+    "concat-stream": "^1.6.2",
+    "crc-32": "^1.2.0",
+    "gbajs": "^1.1.0-rc1",
+    "request": "*",
+    "underscore": "*",
+    "validator": "*"
+  },
+  "author": "dankdel",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Dankdel/PokeMeow/issues"
+  },
+  "homepage": "https://github.com/Dankdel/PokeMeow#readme"
+}
