@@ -153,7 +153,7 @@ ba.setCheck((cmd, upd) => {
           selective: true
         }),
         reply_to_message_id: upd.message.message_id,
-        text: 'Please join group: ' + config.group_url + ' or ask for /join',
+        text: 'Please join group: ' + config.group_url,
       }, (err, result) => {
         if (err) {
           console.log(err);
