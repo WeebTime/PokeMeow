@@ -14,8 +14,8 @@ Pokemon Gba Game Plays In Telegram! (yet another PGGPIT :)
 2. `npm install`
 3. `npm start`
 ```
-### GBA.js:
-* Cross Platform [GBA.js](https://github.com/tengattack/gbajs).
+### Original Repo:
+* Support Repo  [Original](https://github.com/tengattack/telegram-pokemon-bot).
 ```
 ### VBA extensions (legacy):
 * Windows
